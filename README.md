@@ -7,3 +7,5 @@ Here is a third commit
 Not sure why it did not grab the rest of line on third commit about 4th commit.
 This is a test of a local repo change.
 
+Here is a second local commit before the Pull Request.
+
