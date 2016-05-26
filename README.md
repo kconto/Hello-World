@@ -9,3 +9,5 @@ This is a test of a local repo change.
 
 Here is a second local commit before the Pull Request.
 
+Here is the file from second computer.  Little confused because I am not sure where the Git directory ended up because it is not here.
+
